@@ -1,5 +1,6 @@
 # Simple Python program
 new=developer1;
+new1=developer2;
 def add_numbers(a, b):
     return a + b
 
