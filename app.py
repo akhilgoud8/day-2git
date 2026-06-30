@@ -1,4 +1,5 @@
 # Simple Python program
+new=developer1;
 def add_numbers(a, b):
     return a + b
 
@@ -7,7 +8,7 @@ def main():
     port="9000"
 
     num1 = 10
-    num2 = 20
+    num2 = 2
 
     result = add_numbers(num1, num2)
     print(f"The sum of {num1} and {num2} is {result}")
